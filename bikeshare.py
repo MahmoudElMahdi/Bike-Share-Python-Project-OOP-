@@ -134,7 +134,7 @@ def station_stats(df):
         elif raw.lower() == 'no':
             break
         else:
-            print("Invalid input, please enter \"Yes\" or "\"No\"")
+            print("Invalid input, please enter \"Yes\" or \"No\"")
 
 
 def trip_duration_stats(df):
